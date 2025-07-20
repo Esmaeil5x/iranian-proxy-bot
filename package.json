@@ -1,0 +1,13 @@
+{
+  "name": "iranian-proxy-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Iranian proxies",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py"
+  },
+  "engines": {
+    "python": "3.9"
+  },
+  "dependencies": {}
+}
